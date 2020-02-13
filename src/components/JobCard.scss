@@ -1,0 +1,28 @@
+li {
+  display: flex;
+
+  .btn-outline-primary {
+    font-size: 20px;
+    font-weight: bold;
+    max-width: 75px;
+    height: 75px;
+    margin-top: 30px;
+  }
+}
+
+.card-title {
+  display: flex;
+  max-height: 40px;
+}
+
+.card1 {
+  display: flex;
+}
+
+.card2 {
+  max-width: 30rem;
+}
+
+.fixed-top {
+  margin: 190px 0 0 50%;
+}
